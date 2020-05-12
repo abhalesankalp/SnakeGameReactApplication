@@ -1,2 +1,0 @@
-# SnakeGameReactApplication
-Created with CodeSandbox
