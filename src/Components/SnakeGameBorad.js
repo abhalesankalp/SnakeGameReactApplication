@@ -1,11 +1,7 @@
 import React from "react";
 class SnakeGameBoard extends React.Component {
   render() {
-    return (
-      <div>
-        <input type="textbox" />
-      </div>
-    );
+    return <div className="GameBoard" />;
   }
 }
 

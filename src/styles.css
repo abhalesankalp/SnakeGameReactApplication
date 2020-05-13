@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.GameBoard {
+  width: 900px;
+  height: 900px;
+  background-color: lightgray;
+  border: 1px ridge yellow;
+}
